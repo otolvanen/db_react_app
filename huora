@@ -1,0 +1,20 @@
+/*
+                
+<div> 
+                    <label>etunimi</label>
+                    <input type="text" name = 'enimi' onChange={event => setItemInput({...itemInput, [event.target.name] : event.target.value})}/>
+                </div>
+                <div>
+                    <label>sukunimi</label>
+                    <input type="text" name = 'snimi' onChange={event => setItemInput({...itemInput, [event.target.name] : event.target.value})}/>
+                </div>
+                <div>
+                    <label>laji</label>
+                    <input type="text" name = 'laji' onChange={event => setItemInput({...itemInput, [event.target.name] : event.target.value})}/>
+                </div>
+                <div>
+                    <label>syntymaika</label>
+                    <input type="text" name = 'syntymaika' onChange={event => setItemInput({...itemInput, [event.target.name] : event.target.value})}/>
+                </div>
+                
+*/
